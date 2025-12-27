@@ -1,4 +1,8 @@
+<div align="center">
+
 # Hi there, I'm Ziyaudheen 👋
+
+</div>
 
 Welcome to my GitHub profile!
 
