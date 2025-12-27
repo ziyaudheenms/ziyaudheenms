@@ -11,9 +11,10 @@ I'm a passionate developer who loves building scalable and efficient application
 
 ## 🛠️ Skills
 - JavaScript / TypeScript
-- Node.js
-- Express.js
+- Python
+- Fastify.js
 - MongoDB
+- PostgreSQL
 - REST APIs
 - Git & GitHub
 
@@ -22,7 +23,8 @@ I'm a passionate developer who loves building scalable and efficient application
 - More projects coming soon!
 
 ## 📫 How to reach me
-- [GitHub](https://github.com/ziyaudheenms)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/> [GitHub](https://github.com/ziyaudheenms)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> [LinkedIn](https://www.linkedin.com/in/ziyaudheen-ms-b73a75337)
 
 ## ⚡ Fun Fact
 I love solving problems and exploring new tech trends!
