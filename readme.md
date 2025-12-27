@@ -22,9 +22,28 @@ I'm a passionate developer who loves building scalable and efficient application
 - **AMS Backend**: Attendance Management System backend built with Node.js and TypeScript.
 - More projects coming soon!
 
-## 📫 How to reach me
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/> [GitHub](https://github.com/ziyaudheenms)
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> [LinkedIn](https://www.linkedin.com/in/ziyaudheen-ms-b73a75337)
+## 📫 How to Reach Me
+
+<div align="center">
+	<table>
+		<tr>
+			<td align="center">
+				<a href="https://github.com/ziyaudheenms" target="_blank">
+					<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" alt="GitHub"/>
+					<br/>
+					<b>GitHub</b>
+				</a>
+			</td>
+			<td align="center">
+				<a href="https://www.linkedin.com/in/ziyaudheen-ms-b73a75337" target="_blank">
+					<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" alt="LinkedIn"/>
+					<br/>
+					<b>LinkedIn</b>
+				</a>
+			</td>
+		</tr>
+	</table>
+</div>
 
 ## ⚡ Fun Fact
 I love solving problems and exploring new tech trends!
