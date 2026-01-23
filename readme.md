@@ -42,6 +42,8 @@ I'm a passionate developer who loves building scalable and efficient application
 ## ⚡ Fun Fact
 I love solving problems and exploring new tech trends!
 
-[![An image of @ziyaudheenms's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ziyaudheenms)](https://holopin.io/@ziyaudheenms)
+<img width="1897" height="908" alt="Screenshot 2026-01-23 221110" src="https://github.com/user-attachments/assets/f33ee401-e564-4760-b2db-d43925dd2034" />
+
+
 ---
 Feel free to connect or check out my repositories!
