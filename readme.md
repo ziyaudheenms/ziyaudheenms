@@ -17,10 +17,26 @@ Welcome to my GitHub profile!
 
 ## Projects That Showcase
 
-- **AMS Backend**: Attendance Management System backend built with Node.js and TypeScript.
-- More projects coming soon!
+<table>
+  <tr>
+    <th>
+      Project
+    </th>
+    <th>
+      desc
+    </th>
+  </tr>
+  <tr>
+    <td>FileBox</td>
+    <td>Imagekit based file storage system that helps us to store your data in the cloud</td>
+  </tr>
+  <tr>
+    <td>Parlez AI</td>
+    <td>Elevate your interview experience with infinte top level interview practices...</td>
+  </tr>
+</table>
 
-- 
+ 
 ## 📫 How to Reach Me
 
 <div align="center">
