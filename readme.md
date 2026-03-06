@@ -8,7 +8,7 @@
   <i>full Stack Developer / Mobile Application Developer / Tech Tutor</i>
 </div>
 
-## 🚀 About Me
+##  About Me
 
 I'm a passionate developer who loves building scalable and efficient applications. I enjoy learning new technologies and contributing to open-source projects.I love working with problems and finding effective solutions and tools for making human life easier.Driven by curiosity and a hands-on approach, I’m a Full-Stack Developer and Mobile Application Developer. I’ve delivered solutions spanning web, mobile, backend, and AI-powered systems. I focus on security, scalability, and rapid prototyping, while mentoring 100+ students in full-stack and AI.
 
@@ -54,7 +54,7 @@ I'm a passionate developer who loves building scalable and efficient application
 </table>
 
  
-## 📫 How to Reach Me
+##  How to Reach Me
 
 
   <a href="https://github.com/ziyaudheenms" target="_blank" style="text-decoration=none">
@@ -67,7 +67,7 @@ I'm a passionate developer who loves building scalable and efficient application
       <img src="https://skillicons.dev/icons?i=twitter&theme=dark" />
     </a>
 
-## ⚡ Achievements
+##  Achievements
 [![An image of @ziyaudheenms's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ziyaudheenms)](https://holopin.io/@ziyaudheenms)
 
 ---
