@@ -1,10 +1,12 @@
 <div align="center">
-
-# Hi all, Myself I am Ziyaudheen MS
+  
+## Hi all, Myself I am Ziyaudheen MS
 
 </div>
 
-Welcome to my GitHub profile!
+<div align="center">
+  <i>full Stack Developer / Mobile Application Developer / Tech Tutor</i>
+</div>
 
 ## 🚀 About Me
 
@@ -25,38 +27,47 @@ Welcome to my GitHub profile!
     <th>
       desc
     </th>
+    <th>
+      impact
+    </th>
+     <th>
+      demo
+    </th>
   </tr>
   <tr>
     <td>FileBox</td>
-    <td>Imagekit based file storage system that helps us to store your data in the cloud</td>
+    <td>FileBox is an Software that deals with the cloud storage of files.High-performance cloud storage and collaboration software for modern needs. Sync, share, and manage your assets in one place.</td>
+    <td>Currently Building it out...</td>
+    <td>
+      <a href="https://www.linkedin.com/posts/ziyaudheen-ms-b73a75337_excited-to-share-about-my-new-project-cloudvalt-ugcPost-7430636461680521216-c_q_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFSyh0cBe_wEk0bQSVew0u-AViJkfhSgt9A">
+        short demo
+      </a>
+    </td>
   </tr>
   <tr>
     <td>Parlez AI</td>
-    <td>Elevate your interview experience with infinte top level interview practices...</td>
+    <td>Introducing a virtual interviewer powered by LLM so that to get a great knowledge based interviewer. Since this is a virtual interviewer you can practice any interviews as much as you need with the complete seriousness of the job , because we will provide the virtual interviewer with the job descriptions and other details.</td>
+    <td>Won the internal Hackathon of SIH, Qualified to the state Finale Yathra2026</td>
+    <td>https://youtu.be/l2oSWCDAIa4</td>
   </tr>
 </table>
 
  
 ## 📫 How to Reach Me
 
-<div align="center">
-  <div style="display: inline-block; margin: 0 20px;">
-    <a href="https://github.com/ziyaudheenms" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" alt="GitHub"/>
-      <br/>
-      <b>GitHub</b>
+
+  <a href="https://github.com/ziyaudheenms" target="_blank" style="text-decoration=none">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" />
+  </a>
+    <a href="https://www.linkedin.com/in/ziyaudheen-ms-b73a75337" target="_blank" style="text-decoration=none">
+      <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
     </a>
-  </div>
-  <div style="display: inline-block; margin: 0 20px;">
-    <a href="https://www.linkedin.com/in/ziyaudheen-ms-b73a75337" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" alt="LinkedIn"/>
-      <br/>
-      <b>LinkedIn
+      <a href="https://x.com/Ziyaudheenms" target="_blank" style="text-decoration=none">
+      <img src="https://skillicons.dev/icons?i=twitter&theme=dark" />
+    </a>
 
-## ⚡ Fun Fact
-I love solving problems and exploring new tech trends!
-
+## ⚡ Achievements
 [![An image of @ziyaudheenms's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ziyaudheenms)](https://holopin.io/@ziyaudheenms)
 
 ---
-Feel free to connect or check out my repositories!
+Highly intrested and looking forward to contribute more....!
